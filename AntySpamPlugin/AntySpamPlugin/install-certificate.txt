@@ -1,0 +1,7 @@
+1. Install vsto 4 (vstor_redisp.exe)
+   from http://www.microsoft.com/en-us/download/details.aspx?id=40790
+2. Import certyficate "AntySpamOutlook_Key"
+   password "AntySpam" to default creator store location (personal)
+3. Close Outlook 2016 (if worked)
+4. Install publish/setup.exe (antyspam)
+   accept
