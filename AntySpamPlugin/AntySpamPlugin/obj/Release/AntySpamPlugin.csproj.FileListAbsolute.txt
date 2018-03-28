@@ -1,0 +1,14 @@
+C:\GitHub\Clone\antyspamplugin\AntySpamPlugin\AntySpamPlugin\bin\Release\AntySpamPlugin.dll
+C:\GitHub\Clone\antyspamplugin\AntySpamPlugin\AntySpamPlugin\bin\Release\AntySpamPlugin.pdb
+C:\GitHub\Clone\antyspamplugin\AntySpamPlugin\AntySpamPlugin\bin\Release\AntySpamPlugin.dll.manifest
+C:\GitHub\Clone\antyspamplugin\AntySpamPlugin\AntySpamPlugin\bin\Release\AntySpamPlugin.vsto
+C:\GitHub\Clone\antyspamplugin\AntySpamPlugin\AntySpamPlugin\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\GitHub\Clone\antyspamplugin\AntySpamPlugin\AntySpamPlugin\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\GitHub\Clone\antyspamplugin\AntySpamPlugin\AntySpamPlugin\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\GitHub\Clone\antyspamplugin\AntySpamPlugin\AntySpamPlugin\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\GitHub\Clone\antyspamplugin\AntySpamPlugin\AntySpamPlugin\obj\Release\AntySpamPlugin.AboutBoxDialog.resources
+C:\GitHub\Clone\antyspamplugin\AntySpamPlugin\AntySpamPlugin\obj\Release\AntySpamPlugin.Properties.Resources.resources
+C:\GitHub\Clone\antyspamplugin\AntySpamPlugin\AntySpamPlugin\obj\Release\AntySpamPlugin.SplashScreen.resources
+C:\GitHub\Clone\antyspamplugin\AntySpamPlugin\AntySpamPlugin\obj\Release\AntySpamPlugin.csproj.GenerateResource.Cache
+C:\GitHub\Clone\antyspamplugin\AntySpamPlugin\AntySpamPlugin\obj\Release\AntySpamPlugin.dll
+C:\GitHub\Clone\antyspamplugin\AntySpamPlugin\AntySpamPlugin\obj\Release\AntySpamPlugin.pdb
