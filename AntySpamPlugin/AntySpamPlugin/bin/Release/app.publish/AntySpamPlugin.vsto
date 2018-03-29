@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <assemblyIdentity name="AntySpamPlugin.vsto" version="3.0.2.5" publicKeyToken="ae2af9e7dd2d73e9" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <description asmv2:publisher="AntySpamPlugin" asmv2:product="AntySpamPlugin" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <deployment install="false" mapFileExtensions="true" />
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
+  <dependency>
+    <dependentAssembly dependencyType="install" codebase="Application Files\AntySpamPlugin_3_0_2_5\AntySpamPlugin.dll.manifest" size="17144">
+      <assemblyIdentity name="AntySpamPlugin.dll" version="3.0.2.5" publicKeyToken="ae2af9e7dd2d73e9" language="neutral" processorArchitecture="msil" type="win32" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>wd0EEHl5Cg+BBycwfxgYJRNldvc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=Marek-Komputer\Marek, O=Marek-Komputer\Marek, S=Some-State, C=PL" issuerKeyHash="cf2511083f86e369bfafb6dd97c750c42b4d616b" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>6fZW8c5G+oJKCzwwVwlDnoWULIE=</DigestValue></Reference></SignedInfo><SignatureValue>XDX5/KYPB8a7fBRDzmZ0SGaEfCc73bpdI8QuQ+4UFpuOcRyMNdI4mFuuRlOc+a7HXt6i6Cn+O66oJ0xbNGlrayw0+tZei8YsQcs8B9ycc7cvMVfjmd+CRezVluXHqfoT/Xxe2QA7zZqsGjs+Avus/clBtiJeoC8zvTfhQKKxIGWQ+684SSTk05MmnrLaA/7nbrP1Y3PrhMOr/UDDp6VMkyL1bRkEmWz2ri+l7xttWERdapTozXnPMveFvvJJ0ImEyvnXQlrXc/x/PBaMrJd4bL10d5SxwkkrB2WnfOFmwbD9KDJ2NuTsc8f4g3bOUm1ULAJr7DrooV2hFv/F/n4D6w==</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tNiSXX0c3FDE8MJ7XZOlfEpP+oZtPPTGshuWBobVB3paUAExLTfMc2op6u4Rs/SkpezVuUNM/MuoqK+Az9/IKr32rb3pe+5vJA31EPHOT9I/RkOJFuC52Q436/A1N0PL3pFmIApPgehFWKKvQKMN4HYr+8R+lZIn9SaiKBPLFJHxX3H/kaR3RS4lDwj1fhEAABNMRxFNQDrSM1y+VAW7BxdX/l71FckYFgzblADD9OlYMd3uQSyUYDnaYgcZE26+nbDjUIOCvUbFV3irNd76QVTlVcuHgWF+tu8DBzDlGksnUk7ENhC2iRYVwJBvEQin+HN3ykCwFOelH4F0SLfyRw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="812c94859e430957303c0b4a82fa46cef156f6e9" Description="" Url=""><as:assemblyIdentity name="AntySpamPlugin.vsto" version="3.0.2.5" publicKeyToken="ae2af9e7dd2d73e9" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Marek-Komputer\Marek, O=Marek-Komputer\Marek, S=Some-State, C=PL</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>e2uh1mo3STEaOH5P9wZvQ6dnQdo=</DigestValue></Reference></SignedInfo><SignatureValue>Gq6ByHQ3Y9khPzKysA+kNgcEosPw64sXMLeMarZpojeA+0lMqrH0zJgqvzazF8V6zO44p4Zwou3qR2YUjoWjth8iHqCjG9KMRCRtMMAem01YOShdy8NahKgYh5BdXogTJuFV5XEbr78d0ZjR3BB8rLTDgFttXjwA9EwEw52exDKhRXemHaS9zzvfQxuZwXsY2dBE2sbCz8yAzLSnN2D+GYYgkI1kHGutAiG37HcOc1DR/mEMKPRaZgupK5ZxfOD9EPzhLGSQ3eNhhn2tKW+YKFN4i3XcBd13LKEH7NNb5QqxUpExonv5Yybwp+7PabgQvLMZKDfBs+MyroBBSwDKgA==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tNiSXX0c3FDE8MJ7XZOlfEpP+oZtPPTGshuWBobVB3paUAExLTfMc2op6u4Rs/SkpezVuUNM/MuoqK+Az9/IKr32rb3pe+5vJA31EPHOT9I/RkOJFuC52Q436/A1N0PL3pFmIApPgehFWKKvQKMN4HYr+8R+lZIn9SaiKBPLFJHxX3H/kaR3RS4lDwj1fhEAABNMRxFNQDrSM1y+VAW7BxdX/l71FckYFgzblADD9OlYMd3uQSyUYDnaYgcZE26+nbDjUIOCvUbFV3irNd76QVTlVcuHgWF+tu8DBzDlGksnUk7ENhC2iRYVwJBvEQin+HN3ykCwFOelH4F0SLfyRw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIDlTCCAn2gAwIBAgIJAKIOf6V5xq6lMA0GCSqGSIb3DQEBCwUAMGAxCzAJBgNVBAYTAlBMMRMwEQYDVQQIDApTb21lLVN0YXRlMR0wGwYDVQQKDBRNYXJlay1Lb21wdXRlclxNYXJlazEdMBsGA1UEAwwUTWFyZWstS29tcHV0ZXJcTWFyZWswIBcNMTgwMzI2MjAwNDUzWhgPMjExODAzMDIyMDA0NTNaMGAxCzAJBgNVBAYTAlBMMRMwEQYDVQQIDApTb21lLVN0YXRlMR0wGwYDVQQKDBRNYXJlay1Lb21wdXRlclxNYXJlazEdMBsGA1UEAwwUTWFyZWstS29tcHV0ZXJcTWFyZWswggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC02JJdfRzcUMTwwntdk6V8Sk/6hm089MayG5YGhtUHelpQATEtN8xzainq7hGz9KSl7NW5Q0z8y6ior4DP38gqvfatvel77m8kDfUQ8c5P0j9GQ4kW4LnZDjfr8DU3Q8vekWYgCk+B6EVYoq9Aow3gdiv7xH6Vkif1JqIoE8sUkfFfcf+RpHdFLiUPCPV+EQAAE0xHEU1AOtIzXL5UBbsHF1f+XvUVyRgWDNuUAMP06Vgx3e5BLJRgOdpiBxkTbr6dsONQg4K9RsVXeKs13vpBVOVVy4eBYX627wMHMOUaSydSTsQ2ELaJFhXAkG8RCKf4c3fKQLAU56UfgXRIt/JHAgMBAAGjUDBOMB0GA1UdDgQWBBTPJREIP4bjab+vtt2Xx1DEK01hazAfBgNVHSMEGDAWgBTPJREIP4bjab+vtt2Xx1DEK01hazAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQAxoEhXoBu9P6cIjkjxROMWt5qlsgmpMns5mOELSXYZK//FSas9SGwD3lNySVcHpz6RGtzPUoYRLG+id+lKyrMOEnkYHVKMvxD31dvokO8T3V7lZc3Kg72GhAEXO6hnVbkQWqTYxSnHmOVMIvcioSfy1NFkSM1QJPuxbpl5WVA09ezq24iEsuL9XuOHOETk9ejRKm7V9kuHyZBu+3GrjY+3f4QwuiKfSOemXxpi0ftCOGT5tukaijsaq1GBSfbUwmH1wV2L1tT1Ke1HN7J0TncrPDWw9scRGO83mR/83+1khv1J6J0VB87oiQet7Ao/amQQl1FULrWm4EioMcCtKQ6Z</X509Certificate></X509Data></KeyInfo><Object><as:Timestamp>MIIJIAYJKoZIhvcNAQcCoIIJETCCCQ0CAQExDTALBglghkgBZQMEAgEwggETBgkqhkiG9w0BBwGg
+ggEEBIIBABqugch0N2PZIT8ysrAPpDYHBKLD8OuLFzC3jGq2aaI3gPtJTKqx9MyYKr82sxfFeszu
+OKeGcKLt6kdmFI6Fo7YfIh6goxvSjEQkbTDAHptNWDkoXcvDWoSoGIeQXV6IEybhVeVxG6+/HdGY
+0dwQfKy0w4BbbV48APRMBMOdnsQyoUV3ph2kvc8730MbmcF7GNnQRNrGws/MgMy0pzdg/hmGIJCN
+ZBxrrQIht+x3DnNQ0f5hDCj0WmYLqSuWcXzg/RD84SxkkN3jYYZ9rSlvmChTeIt13AXddyyhB+zT
+W+UKsVKRMaJ7+WMm8Kfuz2m4ELyzGSg3wbPjMq6AQUsAyoCgggTgMIIE3DCCA8SgAwIBAgIRAP5n
+5PFaJOPGDVR8oCDCdnAwDQYJKoZIhvcNAQELBQAwfjELMAkGA1UEBhMCUEwxIjAgBgNVBAoTGVVu
+aXpldG8gVGVjaG5vbG9naWVzIFMuQS4xJzAlBgNVBAsTHkNlcnR1bSBDZXJ0aWZpY2F0aW9uIEF1
+dGhvcml0eTEiMCAGA1UEAxMZQ2VydHVtIFRydXN0ZWQgTmV0d29yayBDQTAeFw0xNjAzMDgxMzEw
+NDNaFw0yNzA1MzAxMzEwNDNaMHcxCzAJBgNVBAYTAlBMMSIwIAYDVQQKDBlVbml6ZXRvIFRlY2hu
+b2xvZ2llcyBTLkEuMScwJQYDVQQLDB5DZXJ0dW0gQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkxGzAZ
+BgNVBAMMEkNlcnR1bSBFViBUU0EgU0hBMjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AL9Xi7yRM1ouVzF/JVf0W1NYaiWq6IEgzA0dRzhwGqMWN523RHS1GoEk+vUYSjhLC6C6xb80b+qM
+9Z1CGtAxqFbdqCUOtDwlxazGy1zjgJLqo68tAEBAfNJBKB8rCOhR0F2JcCJsaXbQdhI8LksHKSbp
++AHh0OUo9iTDFfqmkIR0hVyDLA7E2nhJlGodJIaX6SLAxgw14HQyqj27Adh+zBNMIMeVLUn28S0X
+vMYp9/hVdpx9Fdze4UKVk2CZ90PFlEIhvZisHLNm3P14YEQ/PcSVaWfuYcva0LnmdvehPwT00+dx
+ryECXhHaU6SmtZF42ZARW7Sh7qduCtlzpDgFUiMCAwEAAaOCAVowggFWMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFPM1yo5GCA05jd9BxzNuZOQWO5grMB8GA1UdIwQYMBaAFAh2zcsH/yT2xc3tu5C8
+4oQ3RnX3MA4GA1UdDwEB/wQEAwIHgDAWBgNVHSUBAf8EDDAKBggrBgEFBQcDCDAvBgNVHR8EKDAm
+MCSgIqAghh5odHRwOi8vY3JsLmNlcnR1bS5wbC9jdG5jYS5jcmwwawYIKwYBBQUHAQEEXzBdMCgG
+CCsGAQUFBzABhhxodHRwOi8vc3ViY2Eub2NzcC1jZXJ0dW0uY29tMDEGCCsGAQUFBzAChiVodHRw
+Oi8vcmVwb3NpdG9yeS5jZXJ0dW0ucGwvY3RuY2EuY2VyMEAGA1UdIAQ5MDcwNQYLKoRoAYb2dwIF
+AQswJjAkBggrBgEFBQcCARYYaHR0cDovL3d3dy5jZXJ0dW0ucGwvQ1BTMA0GCSqGSIb3DQEBCwUA
+A4IBAQDKdOQ4vTLJGjz6K1jFVy01UwuQ3i0FsvEzMkAblv8iRYc5rgzwGc7B0DJEGjMMgOs9Myt8
+eTROxoFENFhWujkN8OSzA6w3dcB667dA9pr8foBtqbRViT2YSMpW9FWkLunh0361OJGVxM+7ph51
+a1ZQm26n69Gc4XEg1dWmWKvh5SldgfEEteQbZEKhOHE9e3NkxmnUIjCWsCTDAlsRqDw0YntnZ+FG
+hld86IqfkLs4W9m1ieoDKNuNt1sHbTK7h3/cJs4uXujWq9vmptDiGQIS+aDbPp1SxEy9V4XteO3B
+lkTNRrDOZdVXcjokxhDhsHPEj1qDrPbGcpT5cnf/AdUhMYIC/DCCAvgCAQEwgZMwfjELMAkGA1UE
+BhMCUEwxIjAgBgNVBAoTGVVuaXpldG8gVGVjaG5vbG9naWVzIFMuQS4xJzAlBgNVBAsTHkNlcnR1
+bSBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTEiMCAGA1UEAxMZQ2VydHVtIFRydXN0ZWQgTmV0d29y
+ayBDQQIRAP5n5PFaJOPGDVR8oCDCdnAwDQYJYIZIAWUDBAIBBQCgggE5MBoGCSqGSIb3DQEJAzEN
+BgsqhkiG9w0BCRABBDAcBgkqhkiG9w0BCQUxDxcNMTgwMzI5MTc0NzQwWjAvBgkqhkiG9w0BCQQx
+IgQgMaqM/WdYy4A/YGD4yp28qtmkp0wLNpvMS8jqf3ptF/MwgcsGCyqGSIb3DQEJEAIMMYG7MIG4
+MIG1MIGyBBRPjUxIBklCau+LhtTV/Hky5xQthTCBmTCBg6SBgDB+MQswCQYDVQQGEwJQTDEiMCAG
+A1UEChMZVW5pemV0byBUZWNobm9sb2dpZXMgUy5BLjEnMCUGA1UECxMeQ2VydHVtIENlcnRpZmlj
+YXRpb24gQXV0aG9yaXR5MSIwIAYDVQQDExlDZXJ0dW0gVHJ1c3RlZCBOZXR3b3JrIENBAhEA/mfk
+8Vok48YNVHygIMJ2cDANBgkqhkiG9w0BAQEFAASCAQCWUrV0AzJWbopLip/5eTeEtpHHj2nHvDyd
+EWY+uk2lQHjtuuyvzPEP3jklcZnYZ4QQfGQ7c4DQwMaZi8lvfaHLqnVTkycSKLPTzugBxXyRIQaC
+9YoIHPau9ac39ItLD5JCzLHwzCiLnjxIi4l0fbQpa4m9Jlup+7Ye3x+k5GgAokixXRb5Xg3nfePp
+3t8ok7cSAB9Cotyiy5q0mz7dBsXK+isDqnHa8QpdzmpxN1xrDLpdsXBx4EA1ZTag3zdow25IifwK
+tf7FfAbPIGX+Vxh4kiMGNAqNNKVBt5IXNqzcJlFZFtWJmSuvbW0lziukaZZPmFwjZTSR+DAqjbmI
+adma
+</as:Timestamp></Object></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

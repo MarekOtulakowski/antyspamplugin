@@ -1,0 +1,11 @@
+﻿Visual Studio 2013 Community (iso)
+http://go.microsoft.com/?linkid=9863609 
+
+VSTO office
+http://aka.ms/OfficeDevToolsForVS2013
+
+Paint.NET
+https://www.getpaint.net/
+
+for debug
+MS Office 2016 distribution with MS Outlook
